@@ -1,0 +1,86 @@
+==================
+FIELD NAME        
+------------------
+ 1 RECI        
+ 2 CNUM        
+ 3 CCY         
+ 4 ACODQQ      
+ 5 ACSQ        
+ 6 IPDN        
+ 7 ACNO        
+ 8 PSTD        
+ 9 VALD    
+10 TRAT    
+11 PNAR    
+12 PSTA    
+13 DRCR    
+14 ASOC    
+15 CHQN    
+16 SPOS    
+17 BRCA    
+18 RIND    
+19 REJC    
+20 DPMT    
+21 RRNM    
+22 ZZ009   
+23 ATYP    
+24 ZZ002   
+25 EXIN    
+26 PRIN    
+27 GETP    
+28 ACUM  
+29 PRFC  
+30 PTIM  
+31 VOIN  
+32 MGTT  
+33 ACSC  
+34 LTAI  
+35 ZZ007 
+36 RINO  
+37 SWCR  
+38 DLREF 
+39 FACO  
+40 DBCNUM
+41 PREF  
+42 OTRFQQ
+43 OTST  
+44 OTTP  
+45 SDCB  
+46 SDLB  
+47 BOKC   
+48 NITMS  
+49 REBI   
+50 CHGA   
+51 ZZ019  
+52 TLIN   
+53 TRCCY  
+54 STYP   
+55 CQRI   
+56 PBTT   
+57 ORBR   
+58 ORAMT  
+59 XRFI   
+60 XRFN   
+61 TRST   
+62 ACKEY  
+63 FEEFLG 
+64 FEEVAL 
+65 FEEPCT
+66 RORACT 
+67 RORCTY 
+68 RORBNK 
+69 RORCDE 
+70 PORACT 
+71 PORCTY 
+72 PORBNK 
+73 PORCDE 
+74 DSTACT 
+75 DSTCTY 
+76 DSTBNK 
+77 SETDAT 
+78 TICKER 
+79 EXCHNG 
+80 NOMINL 
+81 FDTRID 
+82 ACOD   
+83 OTRF   
