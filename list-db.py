@@ -21,6 +21,7 @@ for a in result:
 #   print("%5d" % a['c'], "%25s" % a['name'])
    summary.append([a['c'],a['name']])
    num = num+1
-print(summary)
-summary.sort(key=lambda x: x[0])
-print(summary)
+# print(summary)
+summary.sort(key=lambda x: x[0], reverse=True)
+for i in range(15):
+    print(summary[i])
